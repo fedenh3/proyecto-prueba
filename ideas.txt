@@ -4,3 +4,9 @@ Ideas de proyectos:
 - App de tarot
 - Automatización Excel
 - Análisis de datos de cartas natales
+
+
+Ideas astrología:
+- Carta natal automática
+- Dashboard zodiacal
+- Compatibilidad astral
