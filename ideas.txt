@@ -1,2 +1,6 @@
-Acá creo que puedo generar ideas nuevas
-y acá más
+Ideas de proyectos:
+
+- Dashboard astrológico en Python 
+- App de tarot
+- Automatización Excel
+- Análisis de datos de cartas natales
